@@ -1,0 +1,23 @@
+{
+  "name": "node-pg",
+  "version": "1.0.0",
+  "description": "BankBook Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "word"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadsyarber/BankBook.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadsyarber/BankBook/issues"
+  },
+  "homepage": "https://github.com/chadsyarber/BankBook#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.7.1"
+  }
+}
